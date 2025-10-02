@@ -1,0 +1,501 @@
+OrderID,ProductCategory,SubCategory,Region,Quantity,Sales
+1,Technology,Phones,East,9,266
+2,Furniture,Phones,East,2,142
+3,Technology,Binders,Central,9,285
+4,Technology,Phones,Central,9,273
+5,Furniture,Chairs,West,8,180
+6,Furniture,Accessories,West,17,469
+7,Technology,Accessories,West,1,10
+8,Office Supplies,Tables,South,11,322
+9,Technology,Phones,East,8,73
+10,Technology,Chairs,East,10,383
+11,Technology,Tables,West,7,477
+12,Technology,Binders,East,3,293
+13,Furniture,Tables,West,3,130
+14,Technology,Tables,South,18,116
+15,Office Supplies,Phones,South,5,430
+16,Furniture,Binders,Central,12,184
+17,Office Supplies,Tables,South,12,494
+18,Office Supplies,Chairs,West,19,213
+19,Office Supplies,Chairs,South,6,174
+20,Office Supplies,Accessories,Central,2,314
+21,Furniture,Binders,East,12,129
+22,Furniture,Binders,West,19,53
+23,Office Supplies,Accessories,East,5,321
+24,Office Supplies,Tables,Central,12,165
+25,Furniture,Binders,Central,17,376
+26,Furniture,Chairs,Central,17,216
+27,Furniture,Chairs,East,10,399
+28,Technology,Phones,East,17,117
+29,Technology,Binders,East,15,260
+30,Technology,Tables,East,12,454
+31,Office Supplies,Accessories,Central,16,413
+32,Technology,Accessories,Central,19,379
+33,Office Supplies,Tables,West,8,343
+34,Office Supplies,Phones,West,17,139
+35,Technology,Accessories,East,5,466
+36,Office Supplies,Binders,South,16,302
+37,Technology,Phones,South,6,29
+38,Technology,Binders,Central,8,291
+39,Furniture,Chairs,Central,18,294
+40,Technology,Phones,Central,12,10
+41,Furniture,Accessories,West,15,128
+42,Technology,Phones,West,9,44
+43,Technology,Phones,Central,13,207
+44,Furniture,Phones,Central,15,494
+45,Furniture,Phones,Central,10,254
+46,Technology,Binders,South,16,68
+47,Office Supplies,Chairs,West,7,334
+48,Furniture,Tables,South,17,170
+49,Office Supplies,Phones,South,7,188
+50,Office Supplies,Accessories,Central,14,215
+51,Office Supplies,Phones,Central,15,21
+52,Furniture,Accessories,East,7,499
+53,Office Supplies,Binders,East,9,285
+54,Furniture,Accessories,South,19,190
+55,Office Supplies,Tables,West,16,251
+56,Technology,Chairs,Central,8,225
+57,Technology,Accessories,Central,18,260
+58,Furniture,Accessories,South,18,308
+59,Technology,Chairs,East,7,135
+60,Technology,Tables,West,3,491
+61,Office Supplies,Phones,East,18,226
+62,Furniture,Accessories,East,10,315
+63,Office Supplies,Chairs,East,7,294
+64,Office Supplies,Binders,East,17,194
+65,Office Supplies,Chairs,Central,14,48
+66,Office Supplies,Binders,Central,3,232
+67,Office Supplies,Tables,East,12,193
+68,Office Supplies,Phones,West,13,436
+69,Office Supplies,Chairs,South,2,187
+70,Furniture,Accessories,West,3,416
+71,Technology,Tables,West,5,437
+72,Office Supplies,Chairs,West,11,303
+73,Office Supplies,Accessories,East,8,349
+74,Office Supplies,Chairs,Central,12,160
+75,Office Supplies,Binders,West,7,393
+76,Office Supplies,Chairs,East,15,135
+77,Office Supplies,Chairs,West,17,310
+78,Technology,Chairs,West,4,317
+79,Technology,Tables,East,13,345
+80,Office Supplies,Chairs,Central,18,443
+81,Technology,Accessories,Central,1,243
+82,Furniture,Binders,South,16,389
+83,Office Supplies,Binders,East,13,384
+84,Furniture,Chairs,South,10,17
+85,Furniture,Tables,South,12,350
+86,Office Supplies,Tables,South,2,138
+87,Technology,Accessories,Central,3,273
+88,Furniture,Chairs,East,10,166
+89,Office Supplies,Binders,South,2,361
+90,Furniture,Tables,East,13,367
+91,Furniture,Chairs,East,13,14
+92,Furniture,Tables,Central,18,95
+93,Furniture,Tables,South,3,184
+94,Technology,Binders,South,7,299
+95,Furniture,Phones,East,14,202
+96,Furniture,Accessories,West,17,320
+97,Furniture,Accessories,Central,12,128
+98,Technology,Binders,Central,16,227
+99,Furniture,Tables,Central,12,436
+100,Furniture,Chairs,Central,15,467
+101,Technology,Tables,South,10,423
+102,Technology,Binders,South,7,123
+103,Technology,Accessories,West,5,475
+104,Furniture,Tables,Central,1,154
+105,Technology,Accessories,Central,17,35
+106,Technology,Chairs,East,3,145
+107,Furniture,Accessories,South,13,312
+108,Technology,Accessories,Central,14,241
+109,Furniture,Phones,West,18,378
+110,Office Supplies,Phones,West,4,85
+111,Technology,Phones,South,18,484
+112,Office Supplies,Accessories,West,5,337
+113,Furniture,Binders,West,16,354
+114,Technology,Accessories,South,1,311
+115,Furniture,Binders,Central,14,461
+116,Office Supplies,Binders,Central,15,298
+117,Furniture,Phones,West,9,10
+118,Technology,Tables,West,15,156
+119,Technology,Chairs,Central,17,296
+120,Office Supplies,Phones,South,4,473
+121,Furniture,Phones,West,12,151
+122,Technology,Tables,East,5,62
+123,Office Supplies,Chairs,South,5,313
+124,Technology,Accessories,West,11,78
+125,Technology,Accessories,West,6,370
+126,Furniture,Phones,East,7,99
+127,Technology,Chairs,East,14,455
+128,Furniture,Phones,Central,11,229
+129,Technology,Binders,South,13,459
+130,Office Supplies,Phones,South,2,201
+131,Technology,Phones,Central,7,463
+132,Furniture,Accessories,South,4,72
+133,Furniture,Accessories,South,8,82
+134,Office Supplies,Accessories,South,19,170
+135,Technology,Binders,South,13,178
+136,Technology,Accessories,South,14,98
+137,Office Supplies,Chairs,East,10,185
+138,Technology,Tables,South,11,278
+139,Technology,Chairs,East,2,82
+140,Furniture,Chairs,South,9,254
+141,Technology,Accessories,Central,17,86
+142,Technology,Tables,West,3,168
+143,Office Supplies,Tables,East,6,498
+144,Office Supplies,Tables,South,5,468
+145,Furniture,Binders,Central,5,333
+146,Technology,Accessories,West,15,107
+147,Technology,Tables,East,17,390
+148,Technology,Binders,West,9,111
+149,Furniture,Phones,Central,3,141
+150,Furniture,Phones,East,17,111
+151,Office Supplies,Binders,West,10,28
+152,Furniture,Binders,South,3,463
+153,Technology,Accessories,East,18,491
+154,Technology,Accessories,West,18,91
+155,Furniture,Phones,Central,17,406
+156,Technology,Tables,Central,3,498
+157,Technology,Phones,East,3,288
+158,Furniture,Tables,West,6,348
+159,Furniture,Tables,East,13,374
+160,Technology,Accessories,East,15,340
+161,Technology,Chairs,West,9,138
+162,Technology,Chairs,West,4,353
+163,Office Supplies,Binders,South,14,319
+164,Office Supplies,Accessories,West,5,464
+165,Office Supplies,Tables,Central,2,98
+166,Furniture,Chairs,East,11,222
+167,Office Supplies,Tables,East,9,152
+168,Furniture,Chairs,Central,3,74
+169,Furniture,Chairs,West,9,85
+170,Office Supplies,Chairs,Central,3,208
+171,Office Supplies,Accessories,Central,2,152
+172,Office Supplies,Phones,South,12,414
+173,Technology,Tables,Central,10,412
+174,Office Supplies,Accessories,East,9,325
+175,Technology,Accessories,Central,15,102
+176,Furniture,Accessories,East,8,482
+177,Technology,Accessories,East,5,426
+178,Office Supplies,Accessories,East,11,314
+179,Furniture,Binders,West,2,233
+180,Furniture,Tables,South,15,300
+181,Furniture,Accessories,East,6,437
+182,Technology,Tables,East,8,111
+183,Office Supplies,Binders,West,5,483
+184,Furniture,Binders,East,16,276
+185,Furniture,Tables,Central,18,364
+186,Furniture,Chairs,Central,6,465
+187,Technology,Phones,South,5,119
+188,Technology,Chairs,East,16,471
+189,Office Supplies,Chairs,West,13,339
+190,Technology,Chairs,Central,5,459
+191,Furniture,Accessories,West,13,439
+192,Office Supplies,Binders,West,17,274
+193,Furniture,Chairs,Central,18,12
+194,Furniture,Binders,West,8,94
+195,Technology,Tables,Central,13,291
+196,Office Supplies,Phones,West,19,337
+197,Technology,Tables,Central,3,313
+198,Technology,Tables,East,8,459
+199,Office Supplies,Accessories,South,2,463
+200,Furniture,Phones,Central,8,421
+201,Furniture,Tables,Central,13,126
+202,Office Supplies,Tables,South,13,230
+203,Furniture,Phones,Central,1,163
+204,Office Supplies,Phones,Central,6,162
+205,Office Supplies,Tables,West,19,21
+206,Technology,Phones,South,16,142
+207,Office Supplies,Tables,East,8,491
+208,Technology,Tables,Central,1,313
+209,Furniture,Accessories,South,16,302
+210,Furniture,Chairs,West,9,472
+211,Furniture,Tables,East,13,309
+212,Furniture,Binders,South,11,237
+213,Technology,Chairs,East,13,280
+214,Furniture,Chairs,East,10,52
+215,Office Supplies,Chairs,East,4,441
+216,Office Supplies,Accessories,Central,6,352
+217,Office Supplies,Tables,Central,7,335
+218,Technology,Accessories,West,5,311
+219,Furniture,Tables,West,11,373
+220,Furniture,Accessories,South,13,388
+221,Furniture,Accessories,West,19,436
+222,Technology,Binders,East,10,30
+223,Office Supplies,Accessories,East,10,416
+224,Office Supplies,Phones,Central,11,116
+225,Furniture,Binders,East,7,345
+226,Office Supplies,Accessories,South,18,312
+227,Office Supplies,Chairs,East,4,126
+228,Technology,Phones,East,2,133
+229,Technology,Phones,South,14,408
+230,Technology,Phones,West,13,290
+231,Technology,Binders,West,12,301
+232,Furniture,Accessories,South,7,212
+233,Technology,Accessories,Central,2,60
+234,Office Supplies,Chairs,East,13,280
+235,Furniture,Chairs,South,14,333
+236,Office Supplies,Phones,East,17,286
+237,Office Supplies,Chairs,Central,9,150
+238,Office Supplies,Binders,East,17,479
+239,Technology,Accessories,South,8,284
+240,Technology,Phones,East,2,299
+241,Furniture,Chairs,West,13,343
+242,Furniture,Binders,Central,3,390
+243,Technology,Binders,Central,16,461
+244,Office Supplies,Chairs,Central,6,382
+245,Furniture,Accessories,South,19,61
+246,Technology,Chairs,Central,7,36
+247,Technology,Phones,West,10,166
+248,Technology,Chairs,South,9,248
+249,Office Supplies,Binders,West,2,165
+250,Technology,Chairs,East,15,300
+251,Technology,Accessories,East,5,145
+252,Technology,Tables,East,4,153
+253,Technology,Chairs,East,4,115
+254,Furniture,Accessories,West,18,429
+255,Furniture,Accessories,South,4,167
+256,Technology,Binders,South,17,155
+257,Office Supplies,Accessories,Central,12,11
+258,Furniture,Accessories,West,17,442
+259,Technology,Accessories,East,10,86
+260,Furniture,Accessories,West,1,141
+261,Furniture,Phones,Central,18,99
+262,Office Supplies,Phones,Central,18,354
+263,Technology,Binders,West,14,359
+264,Technology,Chairs,West,15,468
+265,Office Supplies,Accessories,West,12,272
+266,Office Supplies,Chairs,South,4,360
+267,Technology,Chairs,East,3,117
+268,Technology,Binders,West,12,83
+269,Office Supplies,Accessories,West,7,48
+270,Furniture,Accessories,West,11,406
+271,Furniture,Tables,Central,1,168
+272,Office Supplies,Chairs,Central,6,80
+273,Furniture,Chairs,South,15,456
+274,Office Supplies,Phones,East,15,321
+275,Furniture,Tables,South,19,250
+276,Furniture,Phones,East,11,435
+277,Technology,Phones,Central,2,454
+278,Technology,Phones,Central,14,307
+279,Furniture,Binders,Central,2,449
+280,Furniture,Binders,South,4,45
+281,Technology,Phones,West,17,93
+282,Technology,Tables,West,3,461
+283,Technology,Chairs,Central,13,383
+284,Office Supplies,Tables,West,9,272
+285,Furniture,Accessories,West,7,319
+286,Technology,Binders,South,15,394
+287,Furniture,Chairs,East,11,181
+288,Office Supplies,Chairs,Central,2,385
+289,Office Supplies,Accessories,Central,15,182
+290,Technology,Accessories,South,14,371
+291,Office Supplies,Phones,South,11,56
+292,Furniture,Binders,West,3,388
+293,Technology,Binders,Central,17,150
+294,Furniture,Tables,East,12,384
+295,Furniture,Phones,South,15,415
+296,Office Supplies,Phones,East,16,127
+297,Office Supplies,Phones,East,5,286
+298,Office Supplies,Phones,Central,6,223
+299,Office Supplies,Binders,Central,19,229
+300,Office Supplies,Binders,South,5,402
+301,Technology,Phones,Central,3,35
+302,Furniture,Tables,Central,1,18
+303,Furniture,Chairs,Central,6,280
+304,Furniture,Chairs,East,15,19
+305,Furniture,Tables,South,2,481
+306,Office Supplies,Phones,West,3,387
+307,Furniture,Binders,East,17,130
+308,Technology,Chairs,Central,12,134
+309,Technology,Accessories,East,18,179
+310,Furniture,Accessories,Central,15,81
+311,Furniture,Tables,Central,12,161
+312,Technology,Phones,East,16,217
+313,Technology,Chairs,South,8,58
+314,Office Supplies,Phones,Central,14,163
+315,Technology,Chairs,South,17,356
+316,Office Supplies,Tables,West,8,302
+317,Office Supplies,Tables,Central,15,77
+318,Office Supplies,Accessories,South,14,59
+319,Office Supplies,Phones,South,18,161
+320,Office Supplies,Accessories,West,7,28
+321,Furniture,Phones,South,3,109
+322,Technology,Accessories,South,12,69
+323,Office Supplies,Binders,West,3,176
+324,Technology,Binders,Central,14,211
+325,Technology,Binders,South,15,354
+326,Office Supplies,Binders,South,14,155
+327,Furniture,Chairs,South,7,412
+328,Office Supplies,Binders,East,17,173
+329,Furniture,Tables,West,12,467
+330,Technology,Tables,East,4,490
+331,Furniture,Chairs,West,9,448
+332,Furniture,Binders,Central,6,251
+333,Furniture,Binders,Central,16,78
+334,Technology,Binders,South,2,184
+335,Technology,Accessories,West,8,58
+336,Furniture,Phones,Central,11,492
+337,Furniture,Accessories,West,13,117
+338,Office Supplies,Phones,Central,17,235
+339,Furniture,Binders,East,8,170
+340,Office Supplies,Binders,Central,18,128
+341,Furniture,Accessories,East,18,158
+342,Office Supplies,Accessories,Central,14,474
+343,Technology,Phones,South,15,159
+344,Furniture,Tables,East,6,441
+345,Furniture,Phones,Central,11,302
+346,Furniture,Accessories,South,13,152
+347,Furniture,Accessories,East,1,428
+348,Office Supplies,Chairs,South,6,485
+349,Furniture,Accessories,West,9,464
+350,Technology,Chairs,West,8,169
+351,Technology,Tables,East,11,20
+352,Furniture,Phones,Central,19,147
+353,Technology,Phones,East,9,466
+354,Furniture,Chairs,South,17,87
+355,Furniture,Phones,Central,12,86
+356,Technology,Accessories,West,14,450
+357,Furniture,Binders,Central,15,263
+358,Technology,Chairs,West,16,418
+359,Office Supplies,Phones,Central,1,267
+360,Furniture,Chairs,Central,10,329
+361,Office Supplies,Chairs,Central,8,300
+362,Technology,Binders,South,18,272
+363,Office Supplies,Accessories,South,1,94
+364,Office Supplies,Chairs,East,2,155
+365,Technology,Phones,East,1,332
+366,Office Supplies,Tables,West,1,51
+367,Office Supplies,Chairs,South,9,383
+368,Technology,Chairs,West,13,134
+369,Office Supplies,Binders,East,1,176
+370,Technology,Accessories,West,13,434
+371,Office Supplies,Tables,East,7,250
+372,Technology,Phones,South,2,468
+373,Technology,Tables,Central,6,496
+374,Office Supplies,Phones,South,7,289
+375,Office Supplies,Accessories,West,14,197
+376,Office Supplies,Phones,West,18,311
+377,Furniture,Binders,South,15,28
+378,Furniture,Binders,South,2,77
+379,Furniture,Binders,East,10,227
+380,Technology,Binders,West,12,111
+381,Office Supplies,Tables,West,17,51
+382,Technology,Accessories,South,8,297
+383,Furniture,Phones,Central,11,176
+384,Office Supplies,Phones,West,3,118
+385,Technology,Binders,Central,6,45
+386,Office Supplies,Binders,South,9,241
+387,Technology,Chairs,South,6,238
+388,Office Supplies,Accessories,East,9,362
+389,Furniture,Tables,West,7,173
+390,Furniture,Phones,Central,9,396
+391,Office Supplies,Chairs,East,18,82
+392,Technology,Chairs,West,12,145
+393,Furniture,Phones,East,8,362
+394,Furniture,Tables,South,8,388
+395,Furniture,Chairs,West,18,79
+396,Office Supplies,Chairs,East,15,434
+397,Office Supplies,Accessories,East,7,496
+398,Technology,Tables,Central,11,205
+399,Technology,Chairs,East,16,278
+400,Technology,Tables,West,4,58
+401,Office Supplies,Phones,West,6,325
+402,Office Supplies,Binders,Central,3,139
+403,Technology,Chairs,West,9,453
+404,Technology,Accessories,South,10,14
+405,Office Supplies,Phones,West,14,437
+406,Technology,Tables,West,11,36
+407,Furniture,Phones,East,18,169
+408,Office Supplies,Chairs,East,12,158
+409,Technology,Tables,West,12,273
+410,Office Supplies,Binders,Central,13,239
+411,Furniture,Phones,East,13,209
+412,Office Supplies,Chairs,Central,19,59
+413,Office Supplies,Accessories,West,19,76
+414,Office Supplies,Tables,West,14,309
+415,Office Supplies,Phones,South,4,390
+416,Furniture,Phones,East,13,67
+417,Office Supplies,Binders,West,8,268
+418,Office Supplies,Binders,South,19,351
+419,Technology,Accessories,East,12,335
+420,Office Supplies,Accessories,West,18,139
+421,Technology,Chairs,West,6,224
+422,Furniture,Chairs,East,18,181
+423,Furniture,Accessories,East,19,267
+424,Furniture,Accessories,East,5,111
+425,Furniture,Tables,West,9,218
+426,Technology,Binders,West,3,300
+427,Office Supplies,Chairs,South,10,363
+428,Furniture,Binders,Central,19,480
+429,Office Supplies,Binders,East,3,295
+430,Technology,Accessories,West,15,125
+431,Technology,Tables,West,1,273
+432,Technology,Phones,East,7,159
+433,Furniture,Tables,Central,12,309
+434,Office Supplies,Tables,East,17,451
+435,Office Supplies,Binders,Central,5,45
+436,Office Supplies,Tables,West,4,462
+437,Technology,Chairs,Central,12,342
+438,Furniture,Binders,South,18,486
+439,Technology,Chairs,West,17,296
+440,Technology,Phones,South,19,312
+441,Office Supplies,Binders,East,9,320
+442,Technology,Phones,East,4,217
+443,Office Supplies,Binders,East,2,115
+444,Furniture,Accessories,Central,4,455
+445,Office Supplies,Tables,West,2,167
+446,Furniture,Accessories,East,15,130
+447,Office Supplies,Phones,East,2,64
+448,Technology,Tables,West,4,409
+449,Technology,Binders,East,6,21
+450,Furniture,Tables,South,7,154
+451,Furniture,Chairs,West,10,409
+452,Furniture,Tables,West,19,405
+453,Office Supplies,Chairs,West,19,145
+454,Office Supplies,Tables,South,12,477
+455,Furniture,Chairs,West,3,12
+456,Technology,Phones,South,13,153
+457,Office Supplies,Accessories,West,18,39
+458,Office Supplies,Binders,Central,8,246
+459,Office Supplies,Tables,East,15,288
+460,Furniture,Accessories,Central,1,357
+461,Furniture,Binders,East,3,124
+462,Furniture,Binders,South,8,113
+463,Furniture,Chairs,Central,4,127
+464,Furniture,Phones,West,16,14
+465,Technology,Phones,East,10,477
+466,Technology,Accessories,East,12,369
+467,Furniture,Phones,Central,14,257
+468,Office Supplies,Tables,South,14,373
+469,Furniture,Phones,Central,2,330
+470,Technology,Accessories,South,5,130
+471,Technology,Phones,South,5,295
+472,Office Supplies,Tables,East,6,158
+473,Technology,Chairs,Central,13,93
+474,Furniture,Accessories,Central,9,463
+475,Office Supplies,Chairs,South,15,415
+476,Furniture,Chairs,Central,14,475
+477,Furniture,Chairs,West,7,465
+478,Office Supplies,Binders,West,2,240
+479,Furniture,Binders,Central,7,297
+480,Technology,Chairs,Central,6,170
+481,Furniture,Accessories,South,17,281
+482,Office Supplies,Tables,West,2,469
+483,Office Supplies,Tables,West,3,47
+484,Office Supplies,Phones,East,5,235
+485,Furniture,Accessories,South,5,151
+486,Office Supplies,Binders,East,1,301
+487,Office Supplies,Chairs,West,8,490
+488,Furniture,Phones,South,12,160
+489,Technology,Tables,Central,4,123
+490,Furniture,Binders,South,13,246
+491,Office Supplies,Binders,Central,15,75
+492,Office Supplies,Chairs,Central,11,370
+493,Furniture,Tables,South,10,350
+494,Technology,Accessories,Central,3,267
+495,Office Supplies,Binders,East,14,484
+496,Office Supplies,Chairs,West,16,258
+497,Office Supplies,Accessories,Central,10,466
+498,Furniture,Tables,East,10,458
+499,Office Supplies,Binders,Central,12,340
+500,Technology,Accessories,West,9,332
